@@ -22,8 +22,11 @@ Normal text: Long-term <br>
     * ucerf3 simulations for other large eqs
     * implement n-test, m-test, s-test (others) for stochastic event sets
     * determine power of statistical tests
-3. [paper on testability of earthquake forecasts that involve faults](#testability-of-earthquake-forecasts-on-faults)
     - run csep1 ETAS simulations in csep2 experiment
+3. [paper on testability of earthquake forecasts that involve faults](#testability-of-earthquake-forecasts-on-faults)
+    * idea stage: do we need to compare with data. is it sufficient to answer this question by 
+      answering the question: how long will it take to say that two models are different?
+      
 4. [release csep2 testing center distribution](#csep2-testing-center-release)
     * write docs for csep2 github
     * implement methods to run experiments (db, jobs to hpc, post-processing)
