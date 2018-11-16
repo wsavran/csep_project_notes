@@ -34,9 +34,11 @@ Normal text: Long-term <br>
 Will contain the following sections:
 * **Introduction to CSEP2**
 * **Testing Stochastic Event Sets**
-  * csep1 style tests on stochastic event sets (n-test, m-test, s-test)
+  * **csep1 style tests on stochastic event sets (n-test, m-test, s-test)**
+  * *inter-event time test*
+  * *global mfd test*
   * explanation of tests
-* **Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
+* **Beginning Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
   * **simulations after big bear ** (running on HPC)
   * *simulations 1 mo after big bear (running on HPC)*
   * monthly simulations following (at least 1 month possibly up to 1 year after)
