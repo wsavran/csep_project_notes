@@ -38,9 +38,9 @@ Will contain the following sections:
   * explanation of tests
 * **Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
   * **simulations after big bear ** (running on HPC)
-  * *simulations 1 mo after big bear*
-  * ~simulations following landers [complete]~
+  * *simulations 1 mo after big bear (running on HPC)*
   * monthly simulations following (at least 1 month possibly up to 1 year after)
+  * ~simulations following landers [complete]~
   * figures:
     * **global mfd** [(in-progress)](https://github.com/SCECcode/csep2/blob/master/examples/mfd_test.ipynb)
     * **n-test visualization** (needs annotated)
