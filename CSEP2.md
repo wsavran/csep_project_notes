@@ -42,7 +42,7 @@ Will contain the following sections:
   * ~simulations following landers [complete]~
   * monthly simulations following (at least 1 month possibly up to 1 year after)
   * figures:
-    * **global mfd**
+    * **global mfd** [(in-progress)](https://github.com/SCECcode/csep2/blob/master/examples/mfd_test.ipynb)
     * **n-test visualization** (needs annotated)
     * *spatial map of landers and big bear ruptures*
     * map of cell-averaged (median) forecast numbers
