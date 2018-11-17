@@ -6,9 +6,9 @@ Roadmap for the Collaboratory for the Study of Earthquake Predictability.
 
 ### Legend
 
-**Bold text**: Short-term <br>
-*Italic text*: Medium-term <br>
-Normal text: Long-term <br>
+**Bold text**: High Priority <br>
+*Italic text*: Medium Priority <br>
+Normal text: Low Priority <br>
 ~Strikethrough~: Complete <br>
 
 ## CSEP2 Roadmap
