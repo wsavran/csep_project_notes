@@ -35,9 +35,9 @@ Will contain the following sections:
 * **Introduction to CSEP2**
 * **Testing Stochastic Event Sets**
   * **csep1 style tests on stochastic event sets (n-test, m-test, s-test)**
+  * **explanation of tests**
   * *inter-event time test*
   * *global mfd test*
-  * explanation of tests
 * **Beginning Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
   * ~simulations after big bear (need to run NoFaults)~
   * ~simulations 1 mo after big bear (need to run NoFaults)~
