@@ -15,7 +15,6 @@ Normal text: Long-term <br>
 **Milestones**
 1. [agu poster](#agu-poster) (due: 07 Dec 2018)
     * ucerf3 simulations in Landers sequence
-    * ucerf3 simulations for other large eqs
     * implement n-test, m-test, s-test for stochastic event sets
 2. [paper on testing stochastic event sets](#testing-stochastic-event-sets)
     * ucerf3 simulations in Landers sequence
