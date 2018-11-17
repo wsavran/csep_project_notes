@@ -40,12 +40,12 @@ Will contain the following sections:
   * *global mfd test*
   * explanation of tests
 * **Beginning Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
-  * **simulations after big bear ** (running on HPC)
-  * *simulations 1 mo after big bear (running on HPC)*
+  * ~simulations after big bear (need to run NoFaults)~
+  * ~simulations 1 mo after big bear (need to run NoFaults)~
   * monthly simulations following (at least 1 month possibly up to 1 year after)
   * ~simulations following landers [complete]~
   * figures:
-    * **global mfd** [(in-progress)](https://github.com/SCECcode/csep2/blob/master/examples/mfd_test.ipynb)
+    * ~global mfd (https://github.com/SCECcode/csep2/blob/master/notes/mfd_calc_and_plot.ipynb)~
     * **n-test visualization** (needs annotated)
     * *spatial map of landers and big bear ruptures*
     * map of cell-averaged (median) forecast numbers
