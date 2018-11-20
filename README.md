@@ -55,10 +55,10 @@ Will contain the following sections:
 
 ### Testability of Earthquake Forecasts on Faults
 
+### CSEP2 Testing Center Release
+
 ## General To-do
 * implement n-test, and m-test
 * create plots from new simulations
 * prepare deck for wednesday call (due 11.28)
   * try to include one pyGMT plot showing the rupture surface
-
-### CSEP2 Testing Center Release
