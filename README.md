@@ -52,6 +52,10 @@ Will contain the following sections:
     * ~cumulative numbers [complete]~
 
 ### Testing Stochastic Event Sets
+* Read Gneiting work on proper scoring.
+* Cramer-von Mises test
+* Kuiper's test
+* Kolmogorov Smirnov test
 
 ### Testability of Earthquake Forecasts on Faults
 
