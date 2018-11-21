@@ -34,8 +34,9 @@ Normal text: Low Priority <br>
 Will contain the following sections:
 * **Introduction to CSEP2**
 * **Testing Stochastic Event Sets**
-  * **csep1 style tests on stochastic event sets (n-test, m-test, s-test)**
+  * **csep1 style tests on stochastic event sets **
   * **explanation of tests**
+  * ~n-test~
   * *inter-event time test*
   * *global mfd test*
 * **Beginning Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
@@ -45,7 +46,7 @@ Will contain the following sections:
   * ~simulations following landers [complete]~
   * figures:
     * ~global mfd (https://github.com/SCECcode/csep2/blob/master/notes/mfd_calc_and_plot.ipynb)~
-    * **n-test visualization** (needs annotated)
+    * ~n-test visualization** (https://github.com/SCECcode/csep2/blob/master/notes/n_test_prototype.ipynb)~
     * *spatial map of landers and big bear ruptures*
     * map of cell-averaged (median) forecast numbers
     * ~magnitude vs. time [complete]~
@@ -62,7 +63,6 @@ Will contain the following sections:
 ### CSEP2 Testing Center Release
 
 ## General To-do
-* implement n-test, and m-test
 * create plots from new simulations
 * prepare deck for wednesday call (due 11.28)
   * try to include one pyGMT plot showing the rupture surface
