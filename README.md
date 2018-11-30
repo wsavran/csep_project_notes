@@ -30,11 +30,10 @@ Normal text: Low Priority <br>
 
 ## Project Overview
 ### AGU Poster
-
 Will contain the following sections:
 * **Introduction to CSEP2**
 * **Testing Stochastic Event Sets**
-  * **csep1 style tests on stochastic event sets **
+  * **csep1 style tests on stochastic event sets**
   * **explanation of tests**
   * ~n-test~
   * *inter-event time test*
@@ -55,14 +54,15 @@ Will contain the following sections:
 ### Testing Stochastic Event Sets
 * Read Gneiting work on proper scoring.
 * Cramer-von Mises test
-* Kuiper's test
 * Kolmogorov Smirnov test
 
 ### Testability of Earthquake Forecasts on Faults
+* power of evaluations
 
 ### CSEP2 Testing Center Release
+* backend logic to store model data/parameters
+ * store catalogs
+ * store results
+ * store generated forecasts
 
 ## General To-do
-* create plots from new simulations
-* prepare deck for wednesday call (due 11.28)
-  * try to include one pyGMT plot showing the rupture surface
