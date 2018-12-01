@@ -2,7 +2,8 @@
 
 # CSEP2
 
-Roadmap for the Collaboratory for the Study of Earthquake Predictability.
+Roadmap for CSEP2 and understood by me. This document contains my notes and progress on a collection of CSEP related things.
+This represents my unofficial sounding board.
 
 ### Legend
 
