@@ -39,14 +39,15 @@ Will contain the following sections:
   * ~n-test~
   * *inter-event time test*
   * *global mfd test*
+  * *s-test*
 * **Beginning Retrospective experiment involving UCERF3 and UCERF3-NoFaults**
   * ~simulations after big bear (need to run NoFaults)~
   * ~simulations 1 mo after big bear (need to run NoFaults)~
-  * monthly simulations following (at least 1 month possibly up to 1 year after)
+  * ~monthly simulations following (at least 1 month possibly up to 1 year after)~
   * ~simulations following landers [complete]~
   * figures:
     * ~global mfd (https://github.com/SCECcode/csep2/blob/master/notes/mfd_calc_and_plot.ipynb)~
-    * ~n-test visualization** (https://github.com/SCECcode/csep2/blob/master/notes/n_test_prototype.ipynb)~
+    * ~n-test visualization** (https://github.com/SCECcode/csep2/blob/master/notes/n_test.ipynb)~
     * *spatial map of landers and big bear ruptures*
     * map of cell-averaged (median) forecast numbers
     * ~magnitude vs. time [complete]~
@@ -59,11 +60,10 @@ Will contain the following sections:
 
 ### Testability of Earthquake Forecasts on Faults
 * power of evaluations
+* how long will we have to perform an experiement so that we 
 
 ### CSEP2 Testing Center Release
 * backend logic to store model data/parameters
  * store catalogs
  * store results
  * store generated forecasts
-
-## General To-do
